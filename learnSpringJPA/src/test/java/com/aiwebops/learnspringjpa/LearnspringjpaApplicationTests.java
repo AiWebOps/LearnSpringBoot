@@ -1,13 +1,13 @@
-package com.youdao.com.learnSpringConfig;
+package com.aiwebops.learnspringjpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnSpringConfigApplicationTests {
+class LearnspringjpaApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
